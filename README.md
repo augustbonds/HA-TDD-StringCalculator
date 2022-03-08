@@ -4,3 +4,5 @@
 #StringCalculator!
 
 Build with mvn compile && mvn test
+
+Hej från lektionen!
